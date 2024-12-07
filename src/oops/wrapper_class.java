@@ -14,7 +14,7 @@ public class wrapper_class {
         final A riya=new A("riya");
         riya.name="other name"; //non-primitive final can be changed.
 
-        //when a non primitive is final we cannot re-assign it.
+        //when a non primitive is final we cannot create new obj of it.
         //riya=new A("new object");
 
         A obj;

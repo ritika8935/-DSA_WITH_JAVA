@@ -5,13 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ce4a22d-54d7-4f66-9c4b-60cc1a3bc758" name="Changes" comment="basic oops">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oops_concept.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/introduction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/maxWaterStored.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/multi_dimensional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/printSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/print_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkList/introLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/Class_Obj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/getter_setter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/importstatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/inheritance/box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/inheritance/boxWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/inheritance/boxcolor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/inheritance/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/modifier/Access_specifeir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/modifier/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/objectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/compiletime_poly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/methodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/methodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/practice/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/singleTon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/singleTon2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/sout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/static_Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/static_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/static_keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/staticexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops/superKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pack/a/awesome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pack/hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops/wrapper_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/wrapper_class.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +64,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/oops/practice/solution.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -39,16 +78,82 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Abstraction.executor": "Run",
+    "Application.Class_Obj.executor": "Run",
+    "Application.Interface.executor": "Run",
+    "Application.Solution.executor": "Run",
     "Application.awesome.executor": "Run",
+    "Application.backtraking_on_Arrays.executor": "Run",
     "Application.class_obj_constructor.executor": "Run",
+    "Application.constructor.executor": "Run",
+    "Application.getter_setter.executor": "Run",
     "Application.hello.executor": "Run",
     "Application.importstatic.executor": "Run",
+    "Application.introduction.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.maxWaterStored.executor": "Run",
+    "Application.methodOverriding.executor": "Run",
+    "Application.multi_dimensional.executor": "Run",
+    "Application.objectDemo.executor": "Run",
     "Application.oops1_concept.executor": "Run",
+    "Application.practice.executor": "Run",
+    "Application.practice2.executor": "Run",
+    "Application.printSum2.executor": "Run",
+    "Application.print_sum.executor": "Run",
+    "Application.singleTon2.executor": "Run",
+    "Application.size.executor": "Run",
+    "Application.sorting.executor": "Run",
+    "Application.static_Block.executor": "Run",
+    "Application.static_Class.executor": "Run",
+    "Application.static_keyword.executor": "Run",
+    "Application.subset.executor": "Debug",
+    "Application.superKeyword.executor": "Run",
     "Application.wrapper_class.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Ritika singh/IdeaProjects/oops_concept",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ritika singh\IdeaProjects\oops_concept\src\oops" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="singleTon2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.singleTon2" />
+      <module name="oops_concept" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="subset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.Backtraking.subset" />
+      <module name="oops_concept" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA.Backtraking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.subset" />
+        <item itemvalue="Application.singleTon2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,11 +171,35 @@
       <option name="project" value="LOCAL" />
       <updated>1727285259205</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="basic oops">
+      <option name="closed" value="true" />
+      <created>1728281661558</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728281661558</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic oops" />
     <option name="LAST_COMMIT_MESSAGE" value="basic oops" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DSA/Backtraking/subset.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/oops_concept$subset.ic" NAME="subset Coverage Results" MODIFIED="1730805764139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>DSA.Backtraking.*</FILTER>
+    </SUITE>
   </component>
 </project>
