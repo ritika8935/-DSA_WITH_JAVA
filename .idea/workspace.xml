@@ -4,50 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ce4a22d-54d7-4f66-9c4b-60cc1a3bc758" name="Changes" comment="basic oops">
-      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/introduction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/maxWaterStored.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/multi_dimensional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/printSum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/print_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/Arraylist/sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkList/introLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/Class_Obj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/getter_setter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/importstatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/inheritance/box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/inheritance/boxWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/inheritance/boxcolor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/inheritance/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/modifier/Access_specifeir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/modifier/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/objectDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/compiletime_poly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/methodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/methodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/polymorphism/triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/practice/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/singleTon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/singleTon2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/sout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/static_Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/static_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/static_keyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/staticexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oops/superKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pack/a/awesome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pack/hello.java" afterDir="false" />
+    <list default="true" id="3ce4a22d-54d7-4f66-9c4b-60cc1a3bc758" name="Changes" comment="Deep concept">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oops/wrapper_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/wrapper_class.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +70,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Ritika singh/IdeaProjects/oops_concept",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "vcs.Subversion"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -155,6 +113,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Ritika singh\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3ce4a22d-54d7-4f66-9c4b-60cc1a3bc758" name="Changes" comment="" />
@@ -179,12 +140,59 @@
       <option name="project" value="LOCAL" />
       <updated>1728281661558</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Deep concept">
+      <option name="closed" value="true" />
+      <created>1733546179811</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733546179811</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic oops" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic oops" />
+    <MESSAGE value="Deep concept" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deep concept" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
